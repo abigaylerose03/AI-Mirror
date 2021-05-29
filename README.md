@@ -4,9 +4,9 @@ To test:
 
 Download and save this file to the directory in this GitHub repo: https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
 
-In the terminal: 
-Run emotions_recognition.py 
-Run videoTester.py 
+In the terminal run these commands below. They will run the code!
+emotions_recognition.py 
+videoTester.py 
 
 Make sure you have installed:
 pip3 install numpy
